@@ -1,4 +1,4 @@
-Hi my name is Matthew Zuniga, and I am interested in driving informed research decisions through data analytic approaches. 
+Hi my name is Matthew Zuniga, and I am interested in driving informed research decisions through data analysis in R and SAS.
 My interests are geared towards clinical research in infectious disease. I am currently an MPH candidate at Boston University specializing in Epidemiology/Biostatistics with hopes to strengthen my research and data analysis skills.
 
 
